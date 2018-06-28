@@ -1,5 +1,5 @@
 let moonPhase = 'full';
-let isFoggyNight = false
+let isFoggyNight = false;
 if(moonPhase === 'full' || isFoggyNight){
   console.log('full')
 }else if(moonPhase === 'mostly full'){
@@ -9,3 +9,6 @@ if(moonPhase === 'full' || isFoggyNight){
 }else {
   console.log('Invalid moon phase.')
 }
+/*
+这是一个初学者的小编程。
+*/
